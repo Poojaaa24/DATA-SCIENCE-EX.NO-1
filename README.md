@@ -115,4 +115,4 @@ print(zscore_clean)
 <img width="1141" height="509" alt="image" src="https://github.com/user-attachments/assets/8ef365be-0978-4e13-b9e4-8cc790d247e2" />
 
 # Result
-          <<include your Result here>>
+Thus the given dataset was read successfully, null values and duplicate values were removed, and the cleaned data was saved successfully. Outliers were detected and removed using both IQR and Z-score methods using Python.
